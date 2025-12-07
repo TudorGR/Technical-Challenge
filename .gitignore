@@ -1,0 +1,5 @@
+infra/.env
+
+# Environment files
+.env
+*.env

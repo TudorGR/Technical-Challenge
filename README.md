@@ -4,7 +4,7 @@ A full-stack application that automatically generates blog articles using AI, bu
 
 ## 🚀 Live Demo
 
-**Deployed Application**: [Coming Soon - Will be added after deployment]
+**Deployed Application**: [Here](http://3.235.193.93)
 
 ## 📹 Video Walkthrough
 

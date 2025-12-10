@@ -6,9 +6,9 @@ A full-stack application that automatically generates blog articles using AI, bu
 
 **Deployed Application**: [Here](http://3.235.193.93)
 
-## 📹 Video Walkthrough
+## 📹 Video Walkthrough:
 
-[Video link will be added here]
+[Here](https://www.youtube.com/watch?v=93cSLWeqFrg)
 
 ## 🏗️ Architecture
 
